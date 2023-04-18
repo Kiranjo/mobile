@@ -1,0 +1,16 @@
+{
+  "name": "mobiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mobilesFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node mobilesFile.js"
+  },
+  "keywords": ["node","build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
